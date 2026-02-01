@@ -46,7 +46,7 @@ overrides==7.3.1
 packaging==23.1
 pandas==2.0.1
 posthog==3.0.1
-protobuf==4.23.2
+protobuf==6.33.5
 pycodestyle==2.10.0
 pydantic==1.10.8
 PyJWT==2.7.0
